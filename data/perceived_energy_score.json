@@ -1,0 +1,182 @@
+[
+    {
+        "_id": "user_a",
+        "user": "user_a",
+        "date": "2022-04-01T00:00:00.000Z",
+        "mood_score": 8,
+        "activity": [
+            {
+                "activity": "Walk",
+                "steps": 5768,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Run",
+                "steps": 5760,
+                "distance": 6.465203,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 4812,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 1640,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Fitstar: Personal Trainer",
+                "steps": 117,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 2369,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 1393,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 1536,
+                "distance": 0,
+                "duration": "?"
+            }
+        ],
+        "sleep": [
+            {
+                "sleep_score": 90,
+                "hours_of_sleep": "7:22:00",
+                "hours_in_bed": 8.2
+            },
+            {
+                "sleep_score": 89,
+                "hours_of_sleep": "8:40:00",
+                "hours_in_bed": 9.6
+            },
+            {
+                "sleep_score": 81,
+                "hours_of_sleep": "8:52:00",
+                "hours_in_bed": 10.42
+            },
+            {
+                "sleep_score": 83,
+                "hours_of_sleep": "6:50:00",
+                "hours_in_bed": 7.62
+            },
+            {
+                "sleep_score": 84,
+                "hours_of_sleep": "6:57:00",
+                "hours_in_bed": 7.97
+            },
+            {
+                "sleep_score": 83,
+                "hours_of_sleep": "7:27:00",
+                "hours_in_bed": 8.87
+            },
+            {
+                "sleep_score": 87,
+                "hours_of_sleep": "7:57:00",
+                "hours_in_bed": 8.83
+            }
+        ]
+    },
+    {
+        "_id": "user_b",
+        "user": "user_b",
+        "date": "2022-04-01T00:00:00.000Z",
+        "mood_score": 6,
+        "activity": [
+            {
+                "activity": "Hike",
+                "steps": 6519,
+                "distance": 4.46707,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 4147,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Run",
+                "steps": 5760,
+                "distance": 6.465203,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 2065,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 1573,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Walk",
+                "steps": 1779,
+                "distance": 0,
+                "duration": "?"
+            },
+            {
+                "activity": "Run",
+                "steps": 5937,
+                "distance": 6.47782,
+                "duration": "?"
+            }
+        ],
+        "sleep": [
+            {
+                "sleep_score": 83,
+                "hours_of_sleep": "7:27:00",
+                "hours_in_bed": 8.9
+            },
+            {
+                "sleep_score": 87,
+                "hours_of_sleep": "8:12:00",
+                "hours_in_bed": 9.15
+            },
+            {
+                "sleep_score": 83,
+                "hours_of_sleep": "6:57:00",
+                "hours_in_bed": 7.77
+            },
+            {
+                "sleep_score": 88,
+                "hours_of_sleep": "7:39:00",
+                "hours_in_bed": 8.45
+            },
+            {
+                "sleep_score": 86,
+                "hours_of_sleep": "8:0:00",
+                "hours_in_bed": 9.3
+            },
+            {
+                "sleep_score": 82,
+                "hours_of_sleep": "7:48:00",
+                "hours_in_bed": 9.18
+            },
+            {
+                "sleep_score": 83,
+                "hours_of_sleep": "7:19:00",
+                "hours_in_bed": 8.38
+            }
+        ]
+    }
+]
