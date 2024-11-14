@@ -9,86 +9,86 @@
                 "activity": "Walk",
                 "steps": 5768,
                 "distance": 0,
-                "duration": "?"
+                "duration": "01:26:23"
             },
             {
                 "activity": "Run",
                 "steps": 5760,
                 "distance": 6.465203,
-                "duration": "?"
+                "duration": "00:36:00"
             },
             {
                 "activity": "Walk",
                 "steps": 4812,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:58:47"
             },
             {
                 "activity": "Walk",
                 "steps": 1640,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:18:00"
             },
             {
                 "activity": "Fitstar: Personal Trainer",
                 "steps": 117,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:06:00"
             },
             {
                 "activity": "Walk",
                 "steps": 2369,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:24:00"
             },
             {
                 "activity": "Walk",
                 "steps": 1393,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:15:36"
             },
             {
                 "activity": "Walk",
                 "steps": 1536,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:16:48"
             }
         ],
         "sleep": [
             {
                 "sleep_score": 90,
                 "hours_of_sleep": "7:22:00",
-                "hours_in_bed": 8.2
+                "hours_in_bed": "08:11:59"
             },
             {
                 "sleep_score": 89,
                 "hours_of_sleep": "8:40:00",
-                "hours_in_bed": 9.6
+                "hours_in_bed": "09:35:59"
             },
             {
                 "sleep_score": 81,
                 "hours_of_sleep": "8:52:00",
-                "hours_in_bed": 10.42
+                "hours_in_bed": "10:24:59"
             },
             {
                 "sleep_score": 83,
                 "hours_of_sleep": "6:50:00",
-                "hours_in_bed": 7.62
+                "hours_in_bed": "07:36:59"
             },
             {
                 "sleep_score": 84,
                 "hours_of_sleep": "6:57:00",
-                "hours_in_bed": 7.97
+                "hours_in_bed": "07:58:00"
             },
             {
                 "sleep_score": 83,
                 "hours_of_sleep": "7:27:00",
-                "hours_in_bed": 8.87
+                "hours_in_bed": "08:52:00"
             },
             {
                 "sleep_score": 87,
                 "hours_of_sleep": "7:57:00",
-                "hours_in_bed": 8.83
+                "hours_in_bed": "08:50:00"
             }
         ]
     },
@@ -102,80 +102,80 @@
                 "activity": "Hike",
                 "steps": 6519,
                 "distance": 4.46707,
-                "duration": "?"
+                "duration": "01:30:36"
             },
             {
                 "activity": "Walk",
                 "steps": 4147,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:46:12"
             },
             {
                 "activity": "Run",
                 "steps": 5760,
                 "distance": 6.465203,
-                "duration": "?"
+                "duration": "00:36:00"
             },
             {
                 "activity": "Walk",
                 "steps": 2065,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:19:48"
             },
             {
                 "activity": "Walk",
                 "steps": 1573,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:18:00"
             },
             {
                 "activity": "Walk",
                 "steps": 1779,
                 "distance": 0,
-                "duration": "?"
+                "duration": "00:25:48"
             },
             {
                 "activity": "Run",
                 "steps": 5937,
                 "distance": 6.47782,
-                "duration": "?"
+                "duration": "00:36:36"
             }
         ],
         "sleep": [
             {
                 "sleep_score": 83,
                 "hours_of_sleep": "7:27:00",
-                "hours_in_bed": 8.9
+                "hours_in_bed": "08:54:00"
             },
             {
                 "sleep_score": 87,
                 "hours_of_sleep": "8:12:00",
-                "hours_in_bed": 9.15
+                "hours_in_bed": "09:09:00"
             },
             {
                 "sleep_score": 83,
                 "hours_of_sleep": "6:57:00",
-                "hours_in_bed": 7.77
+                "hours_in_bed": "07:46:00"
             },
             {
                 "sleep_score": 88,
                 "hours_of_sleep": "7:39:00",
-                "hours_in_bed": 8.45
+                "hours_in_bed": "08:26:59"
             },
             {
                 "sleep_score": 86,
                 "hours_of_sleep": "8:0:00",
-                "hours_in_bed": 9.3
+                "hours_in_bed": "09:18:00"
             },
             {
                 "sleep_score": 82,
                 "hours_of_sleep": "7:48:00",
-                "hours_in_bed": 9.18
+                "hours_in_bed": "09:11:00"
             },
             {
                 "sleep_score": 83,
                 "hours_of_sleep": "7:19:00",
-                "hours_in_bed": 8.38
+                "hours_in_bed": "08:22:59"
             }
         ]
     }
